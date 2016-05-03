@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./aburbecondital0104livyuoft/aburbecondital0104livyuoft_0007.png"; bbox 0 0 2000 3338; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 655 1064 1219 1108">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 655 1064 1219 1108">
+     <span class='ocr_line' id='line_1_1' title="bbox 655 1064 1219 1108; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 655 1065 858 1107; x_wconf 79' lang='lat' dir='ltr'>HERRN</span> <span class='ocrx_word' id='word_1_2' title='bbox 890 1064 1219 1108; x_wconf 83' lang='lat' dir='ltr'><strong>PROFESSOR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 1241 1663 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 1241 1663 1329">
+     <span class='ocr_line' id='line_1_2' title="bbox 201 1241 1663 1329; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 201 1254 346 1329; x_wconf 73' lang='lat' dir='ltr'><strong>DR.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 409 1255 928 1327; x_wconf 77' lang='lat' dir='ltr'><strong>EDUARD</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 994 1241 1663 1328; x_wconf 68' lang='lat' dir='ltr'>WOLFFLIN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 425 1462 1442 1735">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 425 1462 1442 1735">
+     <span class='ocr_line' id='line_1_3' title="bbox 720 1462 1153 1517; baseline 0.002 -1"><span class='ocrx_word' id='word_1_6' title='bbox 720 1470 798 1516; x_wconf 92' lang='lat' dir='ltr'><strong>ZU</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 836 1462 1153 1517; x_wconf 70' lang='lat' dir='ltr'><strong>MUNCHEN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 425 1694 1442 1735; baseline 0.002 -4"><span class='ocrx_word' id='word_1_8' title='bbox 425 1694 480 1731; x_wconf 63' lang='grc' dir='ltr'><strong>ΙΝ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 516 1695 844 1735; x_wconf 81' lang='lat' dir='ltr'>VEREHRUNG</span> <span class='ocrx_word' id='word_1_10' title='bbox 878 1696 987 1734; x_wconf 76' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1020 1694 1442 1734; x_wconf 80' lang='lat' dir='ltr'><strong>FREUNDSCHAFT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 815 1921 1050 1946">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 815 1921 1050 1946">
+     <span class='ocr_line' id='line_1_5' title="bbox 815 1921 1050 1946; baseline -0.009 0"><span class='ocrx_word' id='word_1_12' title='bbox 815 1921 1050 1946; x_wconf 71' lang='lat' dir='ltr'>GEWIDMET.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
